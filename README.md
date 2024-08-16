@@ -44,7 +44,11 @@ CREATE TABLE messages (
 ```
 docker-compose down
 ```
-
+# To run this two-tier application using without docker-compose
+* First create a docker image from Dockerfile
+```
+docker build -t flaskapp .
+```
 
 
 
