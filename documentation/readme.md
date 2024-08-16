@@ -27,9 +27,8 @@
 ![image](https://github.com/user-attachments/assets/c5236366-6c2f-4578-b87c-4ca73c0d2988)
 
 # Creating deployment.yml
-
-
-
+![image](https://github.com/user-attachments/assets/02fdfbb2-e521-4b39-b2e2-af548732e9d5)
+![image](https://github.com/user-attachments/assets/b271f65e-cca5-4a64-a08f-0ae79aa85544)
 
 Creating service.yml
 
