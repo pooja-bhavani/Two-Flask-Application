@@ -10,7 +10,10 @@ git clone https://github.com/your-username/your-repo-name.git
 ```
 cd your-repo-name
 ```
-
+* Create a .env file in the project directory to store your MySQL environment variables:
+``
+touch .env
+``
 
 
 
