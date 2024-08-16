@@ -26,10 +26,7 @@
 ![image](https://github.com/user-attachments/assets/25822cda-2452-4e0f-ad33-9dda6b1f35ff)
 ![image](https://github.com/user-attachments/assets/c5236366-6c2f-4578-b87c-4ca73c0d2988)
 
-
-
-
-Creating deployment.yml
+# Creating deployment.yml
 
 
 
