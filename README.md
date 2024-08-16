@@ -6,6 +6,7 @@ This is a simple Flask app that interacts with a MySQL database.
 ```
 git clone https://github.com/your-username/your-repo-name.git
 ```
+* Go to project directory:
 ```
 cd your-repo-name
 ```
