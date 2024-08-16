@@ -23,10 +23,23 @@ MYSQL_USER=your_username
 MYSQL_PASSWORD=your_password
 MYSQL_DB=your_database
 ```
-
-
-
-
+* Start the containers using Docker Compose:
+```
+docker-compose up --build
+```
+* Access the Flask app in your web browser:
+```
+Frontend: http://localhost
+Backend: http://localhost:5000
+Create the messages table in your MySQL database:
+```
+* Use a MySQL client or tool (e.g., phpMyAdmin) to execute the following SQL commands:
+```
+CREATE TABLE messages (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    message TEXT
+);
+```
 
 
 
