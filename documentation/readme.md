@@ -7,7 +7,7 @@
 * Edit inbound rules and add port 5000 in security group
   
 ![image](https://github.com/user-attachments/assets/094fa8b4-4a19-480e-880e-2cf6e6d7b953)
-![image](https://github.com/user-attachments/assets/304a3c2b-c42c-4eb8-8e0f-9d7f27a37347)
+
 ![image](https://github.com/user-attachments/assets/0a6f9d7a-4e78-4783-aff5-658ce591040d)
 ![image](https://github.com/user-attachments/assets/18255ccf-5902-43ce-a3aa-6d7f548cba51)
 ![image](https://github.com/user-attachments/assets/1279a024-cbd1-4bdd-84f9-bcf248698789)
