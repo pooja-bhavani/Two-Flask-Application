@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/7b6330be-aa94-473f-99a6-bdd9a020933c)
 
 
-#Deployment the app through Docker-compose
+# Deployment the app through Docker-compose
 ![image](https://github.com/user-attachments/assets/8ef0d8d0-40e5-4ecd-8858-15292ed0b572)
 ![image](https://github.com/user-attachments/assets/4f76cd6f-2aff-430e-8d0d-ea72879b6de8)
 
