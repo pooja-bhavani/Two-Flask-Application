@@ -1,5 +1,6 @@
 * Setup base EC2 , IAM user and Basic tools on EC2
 ![image](https://github.com/user-attachments/assets/020d6d19-06df-46fd-8d31-ea110dd1ea7e)
+* Build Dockerfile and run the image
 ![image](https://github.com/user-attachments/assets/bcfd2022-6ed3-46eb-9af2-48da1848462c)
 ![image](https://github.com/user-attachments/assets/407c81ed-b573-48e4-a310-d358cc9fe92e)
 ![image](https://github.com/user-attachments/assets/094fa8b4-4a19-480e-880e-2cf6e6d7b953)
