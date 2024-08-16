@@ -20,9 +20,11 @@
 ![image](https://github.com/user-attachments/assets/77ec9d20-e8b9-4523-96b7-a3c5ca9d7e23)
 
 # Running ngnix image
+![image](https://github.com/user-attachments/assets/a9b557a4-0ee5-4e9f-a6c2-e2f2591986fc)
 
-
-Creating pod.yml
+# Creating pod.yml
+![image](https://github.com/user-attachments/assets/25822cda-2452-4e0f-ad33-9dda6b1f35ff)
+![image](https://github.com/user-attachments/assets/c5236366-6c2f-4578-b87c-4ca73c0d2988)
 
 
 
