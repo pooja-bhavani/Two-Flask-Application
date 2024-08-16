@@ -14,17 +14,12 @@
 ![image](https://github.com/user-attachments/assets/8ef0d8d0-40e5-4ecd-8858-15292ed0b572)
 ![image](https://github.com/user-attachments/assets/4f76cd6f-2aff-430e-8d0d-ea72879b6de8)
 
+# Setting up k8's Controlled node (Master) and Managed node (Worker)
+![image](https://github.com/user-attachments/assets/95df08f9-2036-499e-bf68-5902caf37c82)
+![image](https://github.com/user-attachments/assets/a13f5b78-ecd6-4bc2-ba51-e4f1ba896739)
+![image](https://github.com/user-attachments/assets/77ec9d20-e8b9-4523-96b7-a3c5ca9d7e23)
 
-
-
-Setting up k8's Controlled node (Master) and Managed node (Worker)
-
-
-
-
-
-
-Running ngnix image
+# Running ngnix image
 
 
 Creating pod.yml
