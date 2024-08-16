@@ -16,7 +16,13 @@ cd your-repo-name
 touch .env
 ```
 
-
+* Open the .env file and add your MySQL configuration:
+```
+MYSQL_HOST=mysql
+MYSQL_USER=your_username
+MYSQL_PASSWORD=your_password
+MYSQL_DB=your_database
+```
 
 
 
