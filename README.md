@@ -40,8 +40,10 @@ CREATE TABLE messages (
     message TEXT
 );
 ```
-
-
+* To stop and remove the Docker containers, press Ctrl+C in the terminal where the containers are running, or use the following command:
+```
+docker-compose down
+```
 
 
 
