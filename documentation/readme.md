@@ -11,8 +11,8 @@
 ![image](https://github.com/user-attachments/assets/0a6f9d7a-4e78-4783-aff5-658ce591040d)
 ![image](https://github.com/user-attachments/assets/18255ccf-5902-43ce-a3aa-6d7f548cba51)
 ![image](https://github.com/user-attachments/assets/1279a024-cbd1-4bdd-84f9-bcf248698789)
+* Push the image to DockerHub
 ![image](https://github.com/user-attachments/assets/cb48978c-f642-4846-be4b-e34fc2b1835e)
-* 
 ![image](https://github.com/user-attachments/assets/7b6330be-aa94-473f-99a6-bdd9a020933c)
 
 
